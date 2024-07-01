@@ -34,7 +34,7 @@ import static org.springframework.test.web.client.match.MockRestRequestMatchers.
 import static org.springframework.test.web.client.response.MockRestResponseCreators.*;
 
 /**
- * Created by jt, Spring Framework Guru.
+ * Created by kushan, Spring Framework Guru.
  */
 @RestClientTest
 @Import(RestTemplateBuilderConfig.class)
